@@ -1,0 +1,7 @@
+<suite name="AllTests" verbose="1">
+  <test name="CucumberTests">
+    <classes>
+      <class name="com.yourcompany.yourproject.runner.TestRunner"/>
+    </classes>
+  </test>
+</suite>
